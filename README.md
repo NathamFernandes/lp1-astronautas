@@ -1,5 +1,3 @@
-O projeto está estruturado no esquema de menus. Após compilar, basta rodar o arquivo executável "astronautas" (ou do nome que desejar). 
-
 ### Para compilar, use (a depender de como estão estruturados os diretórios):
 
 - No windows:
